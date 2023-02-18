@@ -1,0 +1,4 @@
+{
+  "name": "cloudflare-slack-bot",
+  "packageManager": "yarn@3.4.1"
+}
