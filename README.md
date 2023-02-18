@@ -1,1 +1,1 @@
-# cloudflare-slack-bot
+# cloudflare-worker-template

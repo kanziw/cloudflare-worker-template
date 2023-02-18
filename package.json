@@ -1,5 +1,14 @@
 {
-  "name": "cloudflare-slack-bot",
+  "name": "cloudflare-worker-template",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanziw/cloudflare-worker-template.git"
+  },
+  "author": {
+    "name": "Jiwoong Jung",
+    "email": "kanziwoong@gmail.com"
+  },
+  "license": "MIT",
   "packageManager": "yarn@3.4.1",
   "scripts": {
     "lint": "eslint .",
